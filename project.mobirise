@@ -26,7 +26,9 @@
     "versionPublish": "4.8.8",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "siteFonts": []
+    "siteFonts": [],
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "Front Page": {
